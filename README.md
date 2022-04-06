@@ -1,0 +1,2 @@
+# WooCommerce-Donation-Tip
+WooCommerce Donation and Tip plugin help you to configure your WooCommerce store to start accepting the donations/tips from your client. As an administrator, you can write a custom message for the donors, decide where to display the donation forms, and have a custom shortcode to add donation form on non-WooCommerce pages. There is no rule to donate any amount – customers can donate their desired amount.
