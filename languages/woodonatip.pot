@@ -1,0 +1,388 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Donation and Tip\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-14 16:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.4.2"
+
+#: includes/woo-dona-tip-post-types.php:20
+msgctxt " post type singular name"
+msgid "Donation"
+msgstr ""
+
+#: includes/woo-dona-tip-page.php:179
+msgid "-"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:21
+msgid "Add donation"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:22
+msgid "Add new donation"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:31
+msgctxt "Admin menu name"
+msgid "Donations"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:49
+msgid "After Billing Detail"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:38
+msgid "After Cart Table"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:40
+msgid "After Content"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:39
+msgid "After Coupon Form"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:52
+msgid "After Order Notes"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:139
+msgid "Amount to Donate"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:48
+msgid "Before Billing Detail"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:37
+msgid "Before Cart Table"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:42
+msgid "Before Cart Total"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:46
+msgid "Before Checkout Form"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:47
+msgid "Before Customer Detail"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:51
+msgid "Before Order Notes"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:53
+msgid "Before Order Review"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:50
+msgid "Before Shiiping Detail"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:33
+msgid "Cart and Checkout Page"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:41
+msgid "Cart Collaterals"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:31
+msgid "Cart Page"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:87
+msgid "Cart Page Position"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:32
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:95
+msgid "Checkout Page Position"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:80
+msgid ""
+"Choose whether you want to enable the donation/tip form on Cart / Checkout "
+"or both page."
+msgstr ""
+
+#: includes/class-woo-dona-tip-public.php:229 includes/woo-dona-tip-page.php:54
+msgid "Date"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:143
+msgid "Default Donation Amount"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:163
+msgid "Default message"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:64
+msgid "Delete Data"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:79
+msgid "Display form on"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:105
+msgid "Donate"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:119
+msgid "Donate for a noble cause"
+msgstr ""
+
+#: includes/class-woo-dona-tip-public.php:227 includes/woo-dona-tip-page.php:52
+msgid "Donation Amount"
+msgstr ""
+
+#: includes/woo-dona-tip-page.php:246
+#: includes/admin/class-woo-dona-tip-admin.php:43
+#: includes/admin/class-woo-dona-tip-admin.php:43
+msgid "Donation and Tip"
+msgstr ""
+
+#: includes/class-woo-dona-tip-public.php:228 includes/woo-dona-tip-page.php:53
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:126
+msgid "Donation Message"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:18
+msgid "Donation/Tip"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:102
+msgid "Donation/Tip Button Label"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:123
+msgid "Donation/Tip Message"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:116
+msgid "Donation/Tip Title"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:19
+msgid "Donations"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:34
+msgid "Donations list"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:33
+msgid "Donations navigation"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:23
+msgid "Edit"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:24
+msgid "Edit donation"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:71
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:150
+msgid "Enable Optional Message field"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:144
+msgid "Enter default amount."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:164
+msgid "Enter default message."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:137
+msgid "Enter placeholder for donation field."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:158
+msgid "Enter placeholder for optional message field."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:110
+msgid "Enter remove button label."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:131
+msgid ""
+"Enter the available donation amounts that your user can choose from. "
+"Seperate values with |"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:103
+msgid "Enter the donation button label."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:124
+msgid "Enter the message."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:117
+msgid "Enter the title."
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:32
+msgid "Filter donations"
+msgstr ""
+
+#. 1: first name 2: last name
+#: includes/class-woo-dona-tip-public.php:246
+#: includes/woo-dona-tip-page.php:165
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/woo-dona-tip-page.php:247
+msgid "Generate CSV"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:88
+msgid "Here you can select the position of the form on cart page."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:96
+msgid "Here you can select the position of the form on checkout page."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:60
+msgid "Here you can set various options for Woocommerce Donation and Tip."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wildprogrammers.com/"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:67
+msgid ""
+"If you don't want to use the plugin on your site anymore, you can check the "
+"delete options box. This makes sure, that all data gets deleted from the "
+"database when you deactivate the plugin."
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:25
+msgid "New donation"
+msgstr ""
+
+#. Message to show when no records in database table
+#: includes/woo-dona-tip-page.php:107
+msgid "No Donations and Tips yet."
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:28
+msgid "No donations found"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:29
+msgid "No donations found in trash"
+msgstr ""
+
+#: includes/class-woo-dona-tip-public.php:225 includes/woo-dona-tip-page.php:50
+msgid "Order ID"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:30
+msgid "Parent donations"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:136
+msgid "Placeholder - Donation Amount field"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:157
+msgid "Placeholder - Optional Message field"
+msgstr ""
+
+#: includes/class-woo-dona-tip-scripts.php:57
+msgid "Please enter numeric value."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:130
+msgid "Preset Donation Amounts"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:112
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:109
+msgid "Remove Donation/Tip Button Label"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:27
+msgid "Search donations"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:154
+msgid ""
+"Select this checkbox to enable optional message field on the donation form."
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:74
+msgid "Start accepting donation/tips by ticking this checkbox."
+msgstr ""
+
+#: includes/class-woo-dona-tip-public.php:270
+msgid "Total Donation and Tips"
+msgstr ""
+
+#: includes/woo-dona-tip-page.php:121
+msgid "Total Donations/Tips:"
+msgstr ""
+
+#: includes/class-woo-dona-tip-public.php:226 includes/woo-dona-tip-page.php:51
+msgid "User"
+msgstr ""
+
+#: includes/woo-dona-tip-post-types.php:26
+msgid "View donation"
+msgstr ""
+
+#. Author of the plugin
+msgid "WildProgrammers"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"With WooCommerce Donation and Tips, you can start collection donation and "
+"tips from your clients."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Donation and Tip"
+msgstr ""
+
+#: includes/admin/class-woo-dona-tip-admin-settings-tabs.php:58
+msgid "Woocommerce Donation and Tip"
+msgstr ""
+
+#: includes/class-woo-dona-tip-public.php:275
+msgid "WooCommerce Donation and Tip - Report"
+msgstr ""

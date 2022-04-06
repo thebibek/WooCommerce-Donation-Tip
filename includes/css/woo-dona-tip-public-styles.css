@@ -1,0 +1,63 @@
+.wdt-donation-amount, .wdt-optional-msg {
+    display: block;
+    margin-right: 10px;
+    width: -moz-available;
+    width: -webkit-fill-available;
+    width: fill-available;
+}
+
+.wdt-preset-values-container {
+	margin: 10px 0;
+}
+
+.wdt-dona-tip-container p.wdt-dona-tip-message {
+	margin-bottom: 10px;
+}
+
+.wdt-dona-tip-container {
+	display: block;
+	width:100%;
+	margin: 10px 0;
+}
+
+.wdt-error {
+	display: none;
+	color:red;
+	font-size: 12px;
+	margin-top: 5px;
+}
+
+.wdt-loader {
+	visibility: hidden;
+    height: 24px;
+    width: 24px;
+}
+
+.wdt-form-field-container div {
+	display: inline-block;
+}
+
+.wdt-preset-values-container input.wdt-preset-donate-btn {
+	margin: 5px 0 0;
+}
+
+.wdt-form-field-container {
+	display: flex;
+    align-items: flex-end;
+}
+
+.wdt-optn-msg-container {
+	flex-grow: 100;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: center;
+}
+
+.wdt-remove-btn {
+	display:  none;
+}
+
+input#wdt_donate_btn, input#wdt_remove_btn {
+    margin-right: 10px;
+}
